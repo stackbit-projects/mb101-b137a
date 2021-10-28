@@ -32,15 +32,7 @@
                 "altText": ""
             }
         ],
-        "secondaryLinks": [
-            {
-                "type": "Link",
-                "label": "Sign in",
-                "url": "/",
-                "altText": "Sign in",
-                "style": "link"
-            }
-        ],
+        "secondaryLinks": [],
         "styles": {
             "self": {
                 "width": "narrow",
